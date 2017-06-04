@@ -56,6 +56,7 @@ int actual_program(){
  */
 void file_transfer(int signo){
     // conflict-testbranch
+    // conflict-testbranch
     /* 파일을 전송하기 위해 구글로부터 다운로드 및 구조체 세팅 */
     // 진짜 testbranch 변경점
     
