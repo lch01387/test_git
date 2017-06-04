@@ -56,6 +56,7 @@ int actual_program(){
  * signo: 어떤 시그널에의해 발생했는지, 중요x.
  */
 void file_transfer(int signo){
+    // conflict-master
     /* 파일을 전송하기 위해 구글로부터 다운로드 및 구조체 세팅 */
     // 진짜 testbranch 변경점
     
