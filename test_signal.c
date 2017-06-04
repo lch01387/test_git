@@ -47,6 +47,7 @@ int actual_program(){
     /* pause로 무한대기. signal이 들어오면 해당함수로 */
     while(1)
         pause(0);
+    // test merge
 }
 
 /*
